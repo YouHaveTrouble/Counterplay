@@ -1,0 +1,7 @@
+name: Counterplay
+version: '1.0-SNAPSHOT'
+main: me.youhavetrouble.counterplay.Counterplay
+api-version: '1.21'
+authors: [ YouHaveTrouble ]
+website: https://youhavetrouble.me
+folia-supported: true
