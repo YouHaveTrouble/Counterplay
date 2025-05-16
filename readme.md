@@ -15,3 +15,5 @@ oneshot-protection:
 ```
 
 This is a concept based on the idea talked about in [this](https://youhavetrouble.me/blog/improving-minecraft/) blog post.
+
+[Download the plugin on Modrinth](https://modrinth.com/plugin/counterplay)
